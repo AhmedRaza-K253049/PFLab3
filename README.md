@@ -1,2 +1,3 @@
-# PFLab3
-Introduction to GitHub
+# Muhammad Ahmed Raza
+## BSSE - 1A
+### FAST NUCES
