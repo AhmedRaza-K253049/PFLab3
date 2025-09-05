@@ -8,3 +8,6 @@ _This is Italic_\
 - Point 1
 * Point 2
 + Point 3
+1. Number 1
+2. Number 2
+3. Number 3
