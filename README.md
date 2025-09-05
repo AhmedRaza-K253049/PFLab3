@@ -15,4 +15,6 @@ _This is Italic_\
    - First nested list item
      - Second nested list item
      - Second nested list itm 1
-       - Third nested list item 
+       - Third nested list item
+- [ ] Unchecked Box
+- [x] Checked Box
