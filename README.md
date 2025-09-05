@@ -5,3 +5,6 @@
 _This is Italic_\
 **_This is both Bold and Italic_**\
 ~~This is Slashed~~
+- Point 1
+* Point 2
++ Point 3
